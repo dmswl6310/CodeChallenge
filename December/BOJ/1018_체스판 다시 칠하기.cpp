@@ -3,7 +3,7 @@
 using namespace std;
 int check(int srow, int scol,vector<vector<char>> map);
 
-int main() {
+void main1() {
 	int N, M;
 	cin >> N >> M;
 	int min = N * M;
