@@ -30,5 +30,8 @@
     <ClCompile Include="프로그래머스_실패율.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1074_Z.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
