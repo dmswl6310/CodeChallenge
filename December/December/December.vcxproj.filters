@@ -45,5 +45,16 @@
     <ClCompile Include="2252_줄 세우기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4991_로봇 청소기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_셔틀버스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="1756_피자 굽기.cpp">
+      <Filter>소스 파일</Filter>
+    </Library>
   </ItemGroup>
 </Project>
