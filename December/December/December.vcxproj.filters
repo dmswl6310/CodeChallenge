@@ -60,6 +60,9 @@
     <ClCompile Include="4386_별자리 만들기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="18870_좌표 압축.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Library Include="1756_피자 굽기.cpp">
